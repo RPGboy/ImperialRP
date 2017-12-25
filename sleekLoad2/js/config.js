@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "rez_polar123.png";
+var l_serverImage = "rsz_polar123.png";
 
 /*Display current map and gamemode?
 'true' or 'false'*/
