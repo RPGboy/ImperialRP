@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "rsz_1rsz_polar123.png";
+var l_serverImage = "123.png";
 
 /*Display current map and gamemode?
 'true' or 'false'*/
@@ -57,7 +57,7 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"starwars.jpg",
+	"background.jpg",
 ];
 
 /*Random background images order?
@@ -84,7 +84,7 @@ var l_bgDarkening = 50;
 
 /*Play music during the loading screen?
 'true' or 'false'*/
-var l_music = true;
+var l_music = false;
 
 /*Display current music name?
 'true' or 'false'*/
